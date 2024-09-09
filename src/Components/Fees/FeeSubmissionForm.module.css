@@ -1,0 +1,30 @@
+.formContainer {
+  background-color: #FCE4EC; /* Light pink background */
+  padding: 20px;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 600px;
+  margin: auto;
+}
+
+h2 {
+  color: #D500F9; /* Purple text */
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.MuiTextField-root {
+  margin-bottom: 16px; /* Spacing between form fields */
+}
+
+.MuiButton-root {
+  background-color: #530761 !important; /* Purple button */
+  color: #FFFFFF !important;
+}
+
+.MuiButton-root:hover {
+  background-color: #FF4081 !important; /* Pink hover effect */
+}
+
+
+  
